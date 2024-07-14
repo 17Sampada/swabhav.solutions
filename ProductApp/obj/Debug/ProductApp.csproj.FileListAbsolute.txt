@@ -1,0 +1,7 @@
+D:\AproSCM'24\ProductApp\bin\Debug\ProductApp.exe.config
+D:\AproSCM'24\ProductApp\bin\Debug\ProductApp.exe
+D:\AproSCM'24\ProductApp\bin\Debug\ProductApp.pdb
+D:\AproSCM'24\ProductApp\obj\Debug\ProductApp.csproj.AssemblyReference.cache
+D:\AproSCM'24\ProductApp\obj\Debug\ProductApp.csproj.CoreCompileInputs.cache
+D:\AproSCM'24\ProductApp\obj\Debug\ProductApp.exe
+D:\AproSCM'24\ProductApp\obj\Debug\ProductApp.pdb
