@@ -1,0 +1,7 @@
+D:\AproSCM'24\PigADice\bin\Debug\PigADice.exe.config
+D:\AproSCM'24\PigADice\bin\Debug\PigADice.exe
+D:\AproSCM'24\PigADice\bin\Debug\PigADice.pdb
+D:\AproSCM'24\PigADice\obj\Debug\PigADice.csproj.AssemblyReference.cache
+D:\AproSCM'24\PigADice\obj\Debug\PigADice.csproj.CoreCompileInputs.cache
+D:\AproSCM'24\PigADice\obj\Debug\PigADice.exe
+D:\AproSCM'24\PigADice\obj\Debug\PigADice.pdb
