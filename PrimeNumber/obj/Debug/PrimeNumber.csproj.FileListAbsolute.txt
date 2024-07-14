@@ -1,0 +1,7 @@
+D:\AproSCM'24\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+D:\AproSCM'24\PrimeNumber\bin\Debug\PrimeNumber.exe
+D:\AproSCM'24\PrimeNumber\bin\Debug\PrimeNumber.pdb
+D:\AproSCM'24\PrimeNumber\obj\Debug\PrimeNumber.csproj.AssemblyReference.cache
+D:\AproSCM'24\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+D:\AproSCM'24\PrimeNumber\obj\Debug\PrimeNumber.exe
+D:\AproSCM'24\PrimeNumber\obj\Debug\PrimeNumber.pdb
