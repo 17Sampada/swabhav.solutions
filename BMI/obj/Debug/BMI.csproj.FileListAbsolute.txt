@@ -1,0 +1,7 @@
+D:\AproSCM'24\BMI\bin\Debug\BMI.exe.config
+D:\AproSCM'24\BMI\bin\Debug\BMI.exe
+D:\AproSCM'24\BMI\bin\Debug\BMI.pdb
+D:\AproSCM'24\BMI\obj\Debug\BMI.csproj.AssemblyReference.cache
+D:\AproSCM'24\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+D:\AproSCM'24\BMI\obj\Debug\BMI.exe
+D:\AproSCM'24\BMI\obj\Debug\BMI.pdb
