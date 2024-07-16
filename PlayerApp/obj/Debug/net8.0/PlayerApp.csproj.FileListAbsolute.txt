@@ -1,0 +1,14 @@
+D:\AproSCM'24\PlayerApp\bin\Debug\net8.0\PlayerApp.exe
+D:\AproSCM'24\PlayerApp\bin\Debug\net8.0\PlayerApp.deps.json
+D:\AproSCM'24\PlayerApp\bin\Debug\net8.0\PlayerApp.runtimeconfig.json
+D:\AproSCM'24\PlayerApp\bin\Debug\net8.0\PlayerApp.dll
+D:\AproSCM'24\PlayerApp\bin\Debug\net8.0\PlayerApp.pdb
+D:\AproSCM'24\PlayerApp\obj\Debug\net8.0\PlayerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\AproSCM'24\PlayerApp\obj\Debug\net8.0\PlayerApp.AssemblyInfoInputs.cache
+D:\AproSCM'24\PlayerApp\obj\Debug\net8.0\PlayerApp.AssemblyInfo.cs
+D:\AproSCM'24\PlayerApp\obj\Debug\net8.0\PlayerApp.csproj.CoreCompileInputs.cache
+D:\AproSCM'24\PlayerApp\obj\Debug\net8.0\PlayerApp.dll
+D:\AproSCM'24\PlayerApp\obj\Debug\net8.0\refint\PlayerApp.dll
+D:\AproSCM'24\PlayerApp\obj\Debug\net8.0\PlayerApp.pdb
+D:\AproSCM'24\PlayerApp\obj\Debug\net8.0\PlayerApp.genruntimeconfig.cache
+D:\AproSCM'24\PlayerApp\obj\Debug\net8.0\ref\PlayerApp.dll
