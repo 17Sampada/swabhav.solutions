@@ -1,0 +1,14 @@
+D:\AproSCM'24\MultiLevelInheritance\bin\Debug\net8.0\MultiLevelInheritance.exe
+D:\AproSCM'24\MultiLevelInheritance\bin\Debug\net8.0\MultiLevelInheritance.deps.json
+D:\AproSCM'24\MultiLevelInheritance\bin\Debug\net8.0\MultiLevelInheritance.runtimeconfig.json
+D:\AproSCM'24\MultiLevelInheritance\bin\Debug\net8.0\MultiLevelInheritance.dll
+D:\AproSCM'24\MultiLevelInheritance\bin\Debug\net8.0\MultiLevelInheritance.pdb
+D:\AproSCM'24\MultiLevelInheritance\obj\Debug\net8.0\MultiLevelInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\AproSCM'24\MultiLevelInheritance\obj\Debug\net8.0\MultiLevelInheritance.AssemblyInfoInputs.cache
+D:\AproSCM'24\MultiLevelInheritance\obj\Debug\net8.0\MultiLevelInheritance.AssemblyInfo.cs
+D:\AproSCM'24\MultiLevelInheritance\obj\Debug\net8.0\MultiLevelInheritance.csproj.CoreCompileInputs.cache
+D:\AproSCM'24\MultiLevelInheritance\obj\Debug\net8.0\MultiLevelInheritance.dll
+D:\AproSCM'24\MultiLevelInheritance\obj\Debug\net8.0\refint\MultiLevelInheritance.dll
+D:\AproSCM'24\MultiLevelInheritance\obj\Debug\net8.0\MultiLevelInheritance.pdb
+D:\AproSCM'24\MultiLevelInheritance\obj\Debug\net8.0\MultiLevelInheritance.genruntimeconfig.cache
+D:\AproSCM'24\MultiLevelInheritance\obj\Debug\net8.0\ref\MultiLevelInheritance.dll
