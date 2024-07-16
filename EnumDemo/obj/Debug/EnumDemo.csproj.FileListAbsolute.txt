@@ -1,0 +1,7 @@
+D:\AproSCM'24\EnumDemo\bin\Debug\EnumDemo.exe.config
+D:\AproSCM'24\EnumDemo\bin\Debug\EnumDemo.exe
+D:\AproSCM'24\EnumDemo\bin\Debug\EnumDemo.pdb
+D:\AproSCM'24\EnumDemo\obj\Debug\EnumDemo.csproj.AssemblyReference.cache
+D:\AproSCM'24\EnumDemo\obj\Debug\EnumDemo.csproj.CoreCompileInputs.cache
+D:\AproSCM'24\EnumDemo\obj\Debug\EnumDemo.exe
+D:\AproSCM'24\EnumDemo\obj\Debug\EnumDemo.pdb
