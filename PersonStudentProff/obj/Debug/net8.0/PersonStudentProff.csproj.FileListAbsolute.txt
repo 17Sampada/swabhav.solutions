@@ -1,0 +1,14 @@
+D:\AproSCM'24\PersonStudentProff\bin\Debug\net8.0\PersonStudentProff.exe
+D:\AproSCM'24\PersonStudentProff\bin\Debug\net8.0\PersonStudentProff.deps.json
+D:\AproSCM'24\PersonStudentProff\bin\Debug\net8.0\PersonStudentProff.runtimeconfig.json
+D:\AproSCM'24\PersonStudentProff\bin\Debug\net8.0\PersonStudentProff.dll
+D:\AproSCM'24\PersonStudentProff\bin\Debug\net8.0\PersonStudentProff.pdb
+D:\AproSCM'24\PersonStudentProff\obj\Debug\net8.0\PersonStudentProff.GeneratedMSBuildEditorConfig.editorconfig
+D:\AproSCM'24\PersonStudentProff\obj\Debug\net8.0\PersonStudentProff.AssemblyInfoInputs.cache
+D:\AproSCM'24\PersonStudentProff\obj\Debug\net8.0\PersonStudentProff.AssemblyInfo.cs
+D:\AproSCM'24\PersonStudentProff\obj\Debug\net8.0\PersonStudentProff.csproj.CoreCompileInputs.cache
+D:\AproSCM'24\PersonStudentProff\obj\Debug\net8.0\PersonStudentProff.dll
+D:\AproSCM'24\PersonStudentProff\obj\Debug\net8.0\refint\PersonStudentProff.dll
+D:\AproSCM'24\PersonStudentProff\obj\Debug\net8.0\PersonStudentProff.pdb
+D:\AproSCM'24\PersonStudentProff\obj\Debug\net8.0\PersonStudentProff.genruntimeconfig.cache
+D:\AproSCM'24\PersonStudentProff\obj\Debug\net8.0\ref\PersonStudentProff.dll
