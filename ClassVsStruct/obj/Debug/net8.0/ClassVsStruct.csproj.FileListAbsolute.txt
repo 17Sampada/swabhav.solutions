@@ -1,0 +1,14 @@
+D:\AproSCM'24\ClassVsStruct\bin\Debug\net8.0\ClassVsStruct.exe
+D:\AproSCM'24\ClassVsStruct\bin\Debug\net8.0\ClassVsStruct.deps.json
+D:\AproSCM'24\ClassVsStruct\bin\Debug\net8.0\ClassVsStruct.runtimeconfig.json
+D:\AproSCM'24\ClassVsStruct\bin\Debug\net8.0\ClassVsStruct.dll
+D:\AproSCM'24\ClassVsStruct\bin\Debug\net8.0\ClassVsStruct.pdb
+D:\AproSCM'24\ClassVsStruct\obj\Debug\net8.0\ClassVsStruct.GeneratedMSBuildEditorConfig.editorconfig
+D:\AproSCM'24\ClassVsStruct\obj\Debug\net8.0\ClassVsStruct.AssemblyInfoInputs.cache
+D:\AproSCM'24\ClassVsStruct\obj\Debug\net8.0\ClassVsStruct.AssemblyInfo.cs
+D:\AproSCM'24\ClassVsStruct\obj\Debug\net8.0\ClassVsStruct.csproj.CoreCompileInputs.cache
+D:\AproSCM'24\ClassVsStruct\obj\Debug\net8.0\ClassVsStruct.dll
+D:\AproSCM'24\ClassVsStruct\obj\Debug\net8.0\refint\ClassVsStruct.dll
+D:\AproSCM'24\ClassVsStruct\obj\Debug\net8.0\ClassVsStruct.pdb
+D:\AproSCM'24\ClassVsStruct\obj\Debug\net8.0\ClassVsStruct.genruntimeconfig.cache
+D:\AproSCM'24\ClassVsStruct\obj\Debug\net8.0\ref\ClassVsStruct.dll
