@@ -1,0 +1,14 @@
+D:\AproSCM'24\ReflectorApp\bin\Debug\net8.0\ReflectorApp.exe
+D:\AproSCM'24\ReflectorApp\bin\Debug\net8.0\ReflectorApp.deps.json
+D:\AproSCM'24\ReflectorApp\bin\Debug\net8.0\ReflectorApp.runtimeconfig.json
+D:\AproSCM'24\ReflectorApp\bin\Debug\net8.0\ReflectorApp.dll
+D:\AproSCM'24\ReflectorApp\bin\Debug\net8.0\ReflectorApp.pdb
+D:\AproSCM'24\ReflectorApp\obj\Debug\net8.0\ReflectorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\AproSCM'24\ReflectorApp\obj\Debug\net8.0\ReflectorApp.AssemblyInfoInputs.cache
+D:\AproSCM'24\ReflectorApp\obj\Debug\net8.0\ReflectorApp.AssemblyInfo.cs
+D:\AproSCM'24\ReflectorApp\obj\Debug\net8.0\ReflectorApp.csproj.CoreCompileInputs.cache
+D:\AproSCM'24\ReflectorApp\obj\Debug\net8.0\ReflectorApp.dll
+D:\AproSCM'24\ReflectorApp\obj\Debug\net8.0\refint\ReflectorApp.dll
+D:\AproSCM'24\ReflectorApp\obj\Debug\net8.0\ReflectorApp.pdb
+D:\AproSCM'24\ReflectorApp\obj\Debug\net8.0\ReflectorApp.genruntimeconfig.cache
+D:\AproSCM'24\ReflectorApp\obj\Debug\net8.0\ref\ReflectorApp.dll
