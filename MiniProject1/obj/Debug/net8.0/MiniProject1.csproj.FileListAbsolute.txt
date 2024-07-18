@@ -1,0 +1,14 @@
+D:\AproSCM'24\MiniProject1\bin\Debug\net8.0\MiniProject1.exe
+D:\AproSCM'24\MiniProject1\bin\Debug\net8.0\MiniProject1.deps.json
+D:\AproSCM'24\MiniProject1\bin\Debug\net8.0\MiniProject1.runtimeconfig.json
+D:\AproSCM'24\MiniProject1\bin\Debug\net8.0\MiniProject1.dll
+D:\AproSCM'24\MiniProject1\bin\Debug\net8.0\MiniProject1.pdb
+D:\AproSCM'24\MiniProject1\obj\Debug\net8.0\MiniProject1.GeneratedMSBuildEditorConfig.editorconfig
+D:\AproSCM'24\MiniProject1\obj\Debug\net8.0\MiniProject1.AssemblyInfoInputs.cache
+D:\AproSCM'24\MiniProject1\obj\Debug\net8.0\MiniProject1.AssemblyInfo.cs
+D:\AproSCM'24\MiniProject1\obj\Debug\net8.0\MiniProject1.csproj.CoreCompileInputs.cache
+D:\AproSCM'24\MiniProject1\obj\Debug\net8.0\MiniProject1.dll
+D:\AproSCM'24\MiniProject1\obj\Debug\net8.0\refint\MiniProject1.dll
+D:\AproSCM'24\MiniProject1\obj\Debug\net8.0\MiniProject1.pdb
+D:\AproSCM'24\MiniProject1\obj\Debug\net8.0\MiniProject1.genruntimeconfig.cache
+D:\AproSCM'24\MiniProject1\obj\Debug\net8.0\ref\MiniProject1.dll
