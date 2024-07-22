@@ -1,0 +1,14 @@
+D:\AproSCM'24\FileHandellingHtml\bin\Debug\net8.0\FileHandellingHtml.exe
+D:\AproSCM'24\FileHandellingHtml\bin\Debug\net8.0\FileHandellingHtml.deps.json
+D:\AproSCM'24\FileHandellingHtml\bin\Debug\net8.0\FileHandellingHtml.runtimeconfig.json
+D:\AproSCM'24\FileHandellingHtml\bin\Debug\net8.0\FileHandellingHtml.dll
+D:\AproSCM'24\FileHandellingHtml\bin\Debug\net8.0\FileHandellingHtml.pdb
+D:\AproSCM'24\FileHandellingHtml\obj\Debug\net8.0\FileHandellingHtml.GeneratedMSBuildEditorConfig.editorconfig
+D:\AproSCM'24\FileHandellingHtml\obj\Debug\net8.0\FileHandellingHtml.AssemblyInfoInputs.cache
+D:\AproSCM'24\FileHandellingHtml\obj\Debug\net8.0\FileHandellingHtml.AssemblyInfo.cs
+D:\AproSCM'24\FileHandellingHtml\obj\Debug\net8.0\FileHandellingHtml.csproj.CoreCompileInputs.cache
+D:\AproSCM'24\FileHandellingHtml\obj\Debug\net8.0\FileHandellingHtml.dll
+D:\AproSCM'24\FileHandellingHtml\obj\Debug\net8.0\refint\FileHandellingHtml.dll
+D:\AproSCM'24\FileHandellingHtml\obj\Debug\net8.0\FileHandellingHtml.pdb
+D:\AproSCM'24\FileHandellingHtml\obj\Debug\net8.0\FileHandellingHtml.genruntimeconfig.cache
+D:\AproSCM'24\FileHandellingHtml\obj\Debug\net8.0\ref\FileHandellingHtml.dll

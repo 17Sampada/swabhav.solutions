@@ -1,0 +1,14 @@
+D:\AproSCM'24\FileHandelling\bin\Debug\net8.0\FileHandelling.exe
+D:\AproSCM'24\FileHandelling\bin\Debug\net8.0\FileHandelling.deps.json
+D:\AproSCM'24\FileHandelling\bin\Debug\net8.0\FileHandelling.runtimeconfig.json
+D:\AproSCM'24\FileHandelling\bin\Debug\net8.0\FileHandelling.dll
+D:\AproSCM'24\FileHandelling\bin\Debug\net8.0\FileHandelling.pdb
+D:\AproSCM'24\FileHandelling\obj\Debug\net8.0\FileHandelling.GeneratedMSBuildEditorConfig.editorconfig
+D:\AproSCM'24\FileHandelling\obj\Debug\net8.0\FileHandelling.AssemblyInfoInputs.cache
+D:\AproSCM'24\FileHandelling\obj\Debug\net8.0\FileHandelling.AssemblyInfo.cs
+D:\AproSCM'24\FileHandelling\obj\Debug\net8.0\FileHandelling.csproj.CoreCompileInputs.cache
+D:\AproSCM'24\FileHandelling\obj\Debug\net8.0\FileHandelling.dll
+D:\AproSCM'24\FileHandelling\obj\Debug\net8.0\refint\FileHandelling.dll
+D:\AproSCM'24\FileHandelling\obj\Debug\net8.0\FileHandelling.pdb
+D:\AproSCM'24\FileHandelling\obj\Debug\net8.0\FileHandelling.genruntimeconfig.cache
+D:\AproSCM'24\FileHandelling\obj\Debug\net8.0\ref\FileHandelling.dll
