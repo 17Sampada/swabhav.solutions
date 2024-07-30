@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5yvovUL5MPQ=",
+  "success": true,
+  "projectFilePath": "D:\\AproSCM'24\\FinalLayeredMovieApp\\MovieManagment\\MovieManagment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sampada.bhadane\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\sampada.bhadane\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\sampada.bhadane\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
