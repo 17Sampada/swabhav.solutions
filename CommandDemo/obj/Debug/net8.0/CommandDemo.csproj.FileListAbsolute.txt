@@ -1,0 +1,14 @@
+D:\AproSCM'24\CommandDemo\bin\Debug\net8.0\CommandDemo.exe
+D:\AproSCM'24\CommandDemo\bin\Debug\net8.0\CommandDemo.deps.json
+D:\AproSCM'24\CommandDemo\bin\Debug\net8.0\CommandDemo.runtimeconfig.json
+D:\AproSCM'24\CommandDemo\bin\Debug\net8.0\CommandDemo.dll
+D:\AproSCM'24\CommandDemo\bin\Debug\net8.0\CommandDemo.pdb
+D:\AproSCM'24\CommandDemo\obj\Debug\net8.0\CommandDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\AproSCM'24\CommandDemo\obj\Debug\net8.0\CommandDemo.AssemblyInfoInputs.cache
+D:\AproSCM'24\CommandDemo\obj\Debug\net8.0\CommandDemo.AssemblyInfo.cs
+D:\AproSCM'24\CommandDemo\obj\Debug\net8.0\CommandDemo.csproj.CoreCompileInputs.cache
+D:\AproSCM'24\CommandDemo\obj\Debug\net8.0\CommandDemo.dll
+D:\AproSCM'24\CommandDemo\obj\Debug\net8.0\refint\CommandDemo.dll
+D:\AproSCM'24\CommandDemo\obj\Debug\net8.0\CommandDemo.pdb
+D:\AproSCM'24\CommandDemo\obj\Debug\net8.0\CommandDemo.genruntimeconfig.cache
+D:\AproSCM'24\CommandDemo\obj\Debug\net8.0\ref\CommandDemo.dll
