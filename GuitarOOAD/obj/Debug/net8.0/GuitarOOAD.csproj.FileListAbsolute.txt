@@ -1,0 +1,14 @@
+D:\AproSCM'24\GuitarOOAD\bin\Debug\net8.0\GuitarOOAD.exe
+D:\AproSCM'24\GuitarOOAD\bin\Debug\net8.0\GuitarOOAD.deps.json
+D:\AproSCM'24\GuitarOOAD\bin\Debug\net8.0\GuitarOOAD.runtimeconfig.json
+D:\AproSCM'24\GuitarOOAD\bin\Debug\net8.0\GuitarOOAD.dll
+D:\AproSCM'24\GuitarOOAD\bin\Debug\net8.0\GuitarOOAD.pdb
+D:\AproSCM'24\GuitarOOAD\obj\Debug\net8.0\GuitarOOAD.GeneratedMSBuildEditorConfig.editorconfig
+D:\AproSCM'24\GuitarOOAD\obj\Debug\net8.0\GuitarOOAD.AssemblyInfoInputs.cache
+D:\AproSCM'24\GuitarOOAD\obj\Debug\net8.0\GuitarOOAD.AssemblyInfo.cs
+D:\AproSCM'24\GuitarOOAD\obj\Debug\net8.0\GuitarOOAD.csproj.CoreCompileInputs.cache
+D:\AproSCM'24\GuitarOOAD\obj\Debug\net8.0\GuitarOOAD.dll
+D:\AproSCM'24\GuitarOOAD\obj\Debug\net8.0\refint\GuitarOOAD.dll
+D:\AproSCM'24\GuitarOOAD\obj\Debug\net8.0\GuitarOOAD.pdb
+D:\AproSCM'24\GuitarOOAD\obj\Debug\net8.0\GuitarOOAD.genruntimeconfig.cache
+D:\AproSCM'24\GuitarOOAD\obj\Debug\net8.0\ref\GuitarOOAD.dll
