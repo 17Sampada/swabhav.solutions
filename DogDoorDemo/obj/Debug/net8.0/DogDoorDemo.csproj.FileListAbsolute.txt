@@ -1,0 +1,15 @@
+D:\AproSCM'24\DogDoorDemo\obj\Debug\net8.0\DogDoorDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\AproSCM'24\DogDoorDemo\obj\Debug\net8.0\DogDoorDemo.AssemblyInfoInputs.cache
+D:\AproSCM'24\DogDoorDemo\obj\Debug\net8.0\DogDoorDemo.AssemblyInfo.cs
+D:\AproSCM'24\DogDoorDemo\obj\Debug\net8.0\DogDoorDemo.csproj.CoreCompileInputs.cache
+D:\AproSCM'24\DogDoorDemo\bin\Debug\net8.0\DogDoorDemo.exe
+D:\AproSCM'24\DogDoorDemo\bin\Debug\net8.0\DogDoorDemo.deps.json
+D:\AproSCM'24\DogDoorDemo\bin\Debug\net8.0\DogDoorDemo.runtimeconfig.json
+D:\AproSCM'24\DogDoorDemo\bin\Debug\net8.0\DogDoorDemo.dll
+D:\AproSCM'24\DogDoorDemo\bin\Debug\net8.0\DogDoorDemo.pdb
+D:\AproSCM'24\DogDoorDemo\obj\Debug\net8.0\DogDoorDemo.dll
+D:\AproSCM'24\DogDoorDemo\obj\Debug\net8.0\refint\DogDoorDemo.dll
+D:\AproSCM'24\DogDoorDemo\obj\Debug\net8.0\DogDoorDemo.pdb
+D:\AproSCM'24\DogDoorDemo\obj\Debug\net8.0\DogDoorDemo.genruntimeconfig.cache
+D:\AproSCM'24\DogDoorDemo\obj\Debug\net8.0\ref\DogDoorDemo.dll
+D:\AproSCM'24\DogDoorDemo\obj\Debug\net8.0\DogDoorDemo.sourcelink.json
