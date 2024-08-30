@@ -1,0 +1,15 @@
+D:\AproSCM'24\TictTacToe\bin\Debug\net8.0\TictTacToe.exe
+D:\AproSCM'24\TictTacToe\bin\Debug\net8.0\TictTacToe.deps.json
+D:\AproSCM'24\TictTacToe\bin\Debug\net8.0\TictTacToe.runtimeconfig.json
+D:\AproSCM'24\TictTacToe\bin\Debug\net8.0\TictTacToe.dll
+D:\AproSCM'24\TictTacToe\bin\Debug\net8.0\TictTacToe.pdb
+D:\AproSCM'24\TictTacToe\obj\Debug\net8.0\TictTacToe.GeneratedMSBuildEditorConfig.editorconfig
+D:\AproSCM'24\TictTacToe\obj\Debug\net8.0\TictTacToe.AssemblyInfoInputs.cache
+D:\AproSCM'24\TictTacToe\obj\Debug\net8.0\TictTacToe.AssemblyInfo.cs
+D:\AproSCM'24\TictTacToe\obj\Debug\net8.0\TictTacToe.csproj.CoreCompileInputs.cache
+D:\AproSCM'24\TictTacToe\obj\Debug\net8.0\TictTacToe.sourcelink.json
+D:\AproSCM'24\TictTacToe\obj\Debug\net8.0\TictTacToe.dll
+D:\AproSCM'24\TictTacToe\obj\Debug\net8.0\refint\TictTacToe.dll
+D:\AproSCM'24\TictTacToe\obj\Debug\net8.0\TictTacToe.pdb
+D:\AproSCM'24\TictTacToe\obj\Debug\net8.0\TictTacToe.genruntimeconfig.cache
+D:\AproSCM'24\TictTacToe\obj\Debug\net8.0\ref\TictTacToe.dll
