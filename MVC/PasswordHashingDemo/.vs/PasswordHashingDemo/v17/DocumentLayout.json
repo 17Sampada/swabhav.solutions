@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AproSCM\u002724\\MVC\\PasswordHashingDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11E19494-F50D-45EA-91A9-8039788A85F4}|PasswordHashingDemo\\PasswordHashingDemo.csproj|d:\\aproscm\u002724\\mvc\\passwordhashingdemo\\passwordhashingdemo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E19494-F50D-45EA-91A9-8039788A85F4}|PasswordHashingDemo\\PasswordHashingDemo.csproj|solutionrelative:passwordhashingdemo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E19494-F50D-45EA-91A9-8039788A85F4}|PasswordHashingDemo\\PasswordHashingDemo.csproj|d:\\aproscm\u002724\\mvc\\passwordhashingdemo\\passwordhashingdemo\\views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11E19494-F50D-45EA-91A9-8039788A85F4}|PasswordHashingDemo\\PasswordHashingDemo.csproj|solutionrelative:passwordhashingdemo\\views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PasswordHashing/True/SqlTable/dbo.UserCredentials.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E19494-F50D-45EA-91A9-8039788A85F4}|PasswordHashingDemo\\PasswordHashingDemo.csproj|d:\\aproscm\u002724\\mvc\\passwordhashingdemo\\passwordhashingdemo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E19494-F50D-45EA-91A9-8039788A85F4}|PasswordHashingDemo\\PasswordHashingDemo.csproj|solutionrelative:passwordhashingdemo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E19494-F50D-45EA-91A9-8039788A85F4}|PasswordHashingDemo\\PasswordHashingDemo.csproj|d:\\aproscm\u002724\\mvc\\passwordhashingdemo\\passwordhashingdemo\\views\\user\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11E19494-F50D-45EA-91A9-8039788A85F4}|PasswordHashingDemo\\PasswordHashingDemo.csproj|solutionrelative:passwordhashingdemo\\views\\user\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E19494-F50D-45EA-91A9-8039788A85F4}|PasswordHashingDemo\\PasswordHashingDemo.csproj|d:\\aproscm\u002724\\mvc\\passwordhashingdemo\\passwordhashingdemo\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11E19494-F50D-45EA-91A9-8039788A85F4}|PasswordHashingDemo\\PasswordHashingDemo.csproj|solutionrelative:passwordhashingdemo\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E19494-F50D-45EA-91A9-8039788A85F4}|PasswordHashingDemo\\PasswordHashingDemo.csproj|d:\\aproscm\u002724\\mvc\\passwordhashingdemo\\passwordhashingdemo\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11E19494-F50D-45EA-91A9-8039788A85F4}|PasswordHashingDemo\\PasswordHashingDemo.csproj|solutionrelative:passwordhashingdemo\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.UserCredentials [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PasswordHashing/True/SqlTable/dbo.UserCredentials.sql",
+              "ToolTip": "dbo.UserCredentials [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-16T17:32:39.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\AproSCM\u002724\\MVC\\PasswordHashingDemo\\PasswordHashingDemo\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PasswordHashingDemo\\Models\\User.cs",
+              "ToolTip": "D:\\AproSCM\u002724\\MVC\\PasswordHashingDemo\\PasswordHashingDemo\\Models\\User.cs",
+              "RelativeToolTip": "PasswordHashingDemo\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:31:22.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "D:\\AproSCM\u002724\\MVC\\PasswordHashingDemo\\PasswordHashingDemo\\Views\\User\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "PasswordHashingDemo\\Views\\User\\Welcome.cshtml",
+              "ToolTip": "D:\\AproSCM\u002724\\MVC\\PasswordHashingDemo\\PasswordHashingDemo\\Views\\User\\Welcome.cshtml",
+              "RelativeToolTip": "PasswordHashingDemo\\Views\\User\\Welcome.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T17:30:20.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Signup.cshtml",
+              "DocumentMoniker": "D:\\AproSCM\u002724\\MVC\\PasswordHashingDemo\\PasswordHashingDemo\\Views\\User\\Signup.cshtml",
+              "RelativeDocumentMoniker": "PasswordHashingDemo\\Views\\User\\Signup.cshtml",
+              "ToolTip": "D:\\AproSCM\u002724\\MVC\\PasswordHashingDemo\\PasswordHashingDemo\\Views\\User\\Signup.cshtml",
+              "RelativeToolTip": "PasswordHashingDemo\\Views\\User\\Signup.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T17:30:13.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\AproSCM\u002724\\MVC\\PasswordHashingDemo\\PasswordHashingDemo\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "PasswordHashingDemo\\Views\\User\\Login.cshtml",
+              "ToolTip": "D:\\AproSCM\u002724\\MVC\\PasswordHashingDemo\\PasswordHashingDemo\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "PasswordHashingDemo\\Views\\User\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T17:24:40.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\AproSCM\u002724\\MVC\\PasswordHashingDemo\\PasswordHashingDemo\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "PasswordHashingDemo\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\AproSCM\u002724\\MVC\\PasswordHashingDemo\\PasswordHashingDemo\\Controllers\\UserController.cs",
+              "RelativeToolTip": "PasswordHashingDemo\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:59:37.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\AproSCM\u002724\\MVC\\PasswordHashingDemo\\PasswordHashingDemo\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "PasswordHashingDemo\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\AproSCM\u002724\\MVC\\PasswordHashingDemo\\PasswordHashingDemo\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "PasswordHashingDemo\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T17:21:40.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
