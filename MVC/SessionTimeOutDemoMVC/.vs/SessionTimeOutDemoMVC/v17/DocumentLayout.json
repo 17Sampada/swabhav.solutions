@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AproSCM\u002724\\MVC\\SessionTimeOutDemoMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4922D418-B563-4854-8A70-BB9B28C82B54}|SessionTimeOutDemoMVC\\SessionTimeOutDemoMVC.csproj|d:\\aproscm\u002724\\mvc\\sessiontimeoutdemomvc\\sessiontimeoutdemomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4922D418-B563-4854-8A70-BB9B28C82B54}|SessionTimeOutDemoMVC\\SessionTimeOutDemoMVC.csproj|solutionrelative:sessiontimeoutdemomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4922D418-B563-4854-8A70-BB9B28C82B54}|SessionTimeOutDemoMVC\\SessionTimeOutDemoMVC.csproj|D:\\AproSCM\u002724\\MVC\\SessionTimeOutDemoMVC\\sessiontimeoutdemomvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4922D418-B563-4854-8A70-BB9B28C82B54}|SessionTimeOutDemoMVC\\SessionTimeOutDemoMVC.csproj|solutionrelative:sessiontimeoutdemomvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4922D418-B563-4854-8A70-BB9B28C82B54}|SessionTimeOutDemoMVC\\SessionTimeOutDemoMVC.csproj|D:\\AproSCM\u002724\\MVC\\SessionTimeOutDemoMVC\\sessiontimeoutdemomvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4922D418-B563-4854-8A70-BB9B28C82B54}|SessionTimeOutDemoMVC\\SessionTimeOutDemoMVC.csproj|solutionrelative:sessiontimeoutdemomvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4922D418-B563-4854-8A70-BB9B28C82B54}|SessionTimeOutDemoMVC\\SessionTimeOutDemoMVC.csproj|D:\\AproSCM\u002724\\MVC\\SessionTimeOutDemoMVC\\sessiontimeoutdemomvc\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4922D418-B563-4854-8A70-BB9B28C82B54}|SessionTimeOutDemoMVC\\SessionTimeOutDemoMVC.csproj|solutionrelative:sessiontimeoutdemomvc\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\AproSCM\u002724\\MVC\\SessionTimeOutDemoMVC\\SessionTimeOutDemoMVC\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "SessionTimeOutDemoMVC\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\AproSCM\u002724\\MVC\\SessionTimeOutDemoMVC\\SessionTimeOutDemoMVC\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "SessionTimeOutDemoMVC\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:23:04.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\AproSCM\u002724\\MVC\\SessionTimeOutDemoMVC\\SessionTimeOutDemoMVC\\Web.config",
+              "RelativeDocumentMoniker": "SessionTimeOutDemoMVC\\Web.config",
+              "ToolTip": "D:\\AproSCM\u002724\\MVC\\SessionTimeOutDemoMVC\\SessionTimeOutDemoMVC\\Web.config",
+              "RelativeToolTip": "SessionTimeOutDemoMVC\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-16T15:20:07.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\AproSCM\u002724\\MVC\\SessionTimeOutDemoMVC\\SessionTimeOutDemoMVC\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "SessionTimeOutDemoMVC\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\AproSCM\u002724\\MVC\\SessionTimeOutDemoMVC\\SessionTimeOutDemoMVC\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "SessionTimeOutDemoMVC\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T15:19:56.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\AproSCM\u002724\\MVC\\SessionTimeOutDemoMVC\\SessionTimeOutDemoMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SessionTimeOutDemoMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\AproSCM\u002724\\MVC\\SessionTimeOutDemoMVC\\SessionTimeOutDemoMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SessionTimeOutDemoMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:18:20.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
