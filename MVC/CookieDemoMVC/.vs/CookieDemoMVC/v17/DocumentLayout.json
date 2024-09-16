@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AproSCM\u002724\\MVC\\CookieDemoMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A67777-8B49-4530-83A8-5FD05BCC4911}|CookieDemoMVC\\CookieDemoMVC.csproj|d:\\aproscm\u002724\\mvc\\cookiedemomvc\\cookiedemomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A67777-8B49-4530-83A8-5FD05BCC4911}|CookieDemoMVC\\CookieDemoMVC.csproj|solutionrelative:cookiedemomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A67777-8B49-4530-83A8-5FD05BCC4911}|CookieDemoMVC\\CookieDemoMVC.csproj|d:\\aproscm\u002724\\mvc\\cookiedemomvc\\cookiedemomvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A67777-8B49-4530-83A8-5FD05BCC4911}|CookieDemoMVC\\CookieDemoMVC.csproj|solutionrelative:cookiedemomvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A67777-8B49-4530-83A8-5FD05BCC4911}|CookieDemoMVC\\CookieDemoMVC.csproj|d:\\aproscm\u002724\\mvc\\cookiedemomvc\\cookiedemomvc\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2A67777-8B49-4530-83A8-5FD05BCC4911}|CookieDemoMVC\\CookieDemoMVC.csproj|solutionrelative:cookiedemomvc\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A67777-8B49-4530-83A8-5FD05BCC4911}|CookieDemoMVC\\CookieDemoMVC.csproj|d:\\aproscm\u002724\\mvc\\cookiedemomvc\\cookiedemomvc\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2A67777-8B49-4530-83A8-5FD05BCC4911}|CookieDemoMVC\\CookieDemoMVC.csproj|solutionrelative:cookiedemomvc\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A67777-8B49-4530-83A8-5FD05BCC4911}|CookieDemoMVC\\CookieDemoMVC.csproj|d:\\aproscm\u002724\\mvc\\cookiedemomvc\\cookiedemomvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A67777-8B49-4530-83A8-5FD05BCC4911}|CookieDemoMVC\\CookieDemoMVC.csproj|solutionrelative:cookiedemomvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\AproSCM\u002724\\MVC\\CookieDemoMVC\\CookieDemoMVC\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "CookieDemoMVC\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\AproSCM\u002724\\MVC\\CookieDemoMVC\\CookieDemoMVC\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "CookieDemoMVC\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T15:34:02.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\AproSCM\u002724\\MVC\\CookieDemoMVC\\CookieDemoMVC\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "CookieDemoMVC\\Views\\Home\\Create.cshtml",
+              "ToolTip": "D:\\AproSCM\u002724\\MVC\\CookieDemoMVC\\CookieDemoMVC\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "CookieDemoMVC\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T15:33:45.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\AproSCM\u002724\\MVC\\CookieDemoMVC\\CookieDemoMVC\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "CookieDemoMVC\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\AproSCM\u002724\\MVC\\CookieDemoMVC\\CookieDemoMVC\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "CookieDemoMVC\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:31:47.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\AproSCM\u002724\\MVC\\CookieDemoMVC\\CookieDemoMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CookieDemoMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\AproSCM\u002724\\MVC\\CookieDemoMVC\\CookieDemoMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CookieDemoMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:30:53.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\AproSCM\u002724\\MVC\\CookieDemoMVC\\CookieDemoMVC\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CookieDemoMVC\\Models\\Student.cs",
+              "ToolTip": "D:\\AproSCM\u002724\\MVC\\CookieDemoMVC\\CookieDemoMVC\\Models\\Student.cs",
+              "RelativeToolTip": "CookieDemoMVC\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:30:22.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
