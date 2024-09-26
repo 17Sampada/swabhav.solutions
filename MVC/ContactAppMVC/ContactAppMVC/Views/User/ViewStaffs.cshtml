@@ -2,13 +2,12 @@
 
 @{
     ViewBag.Title = "ViewStaffs";
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h2>ViewStaffs</h2>
+<h2>List of Staffs</h2>
 
-<p>
-    @Html.ActionLink("Create New", "Create")
-</p>
+
 <table class="table">
     <tr>
         <th>
@@ -29,10 +28,8 @@
         <th>
             @Html.DisplayNameFor(model => model.IsActive)
         </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Password)
-        </th>
-        <th></th>
+        
+        
     </tr>
 
 @foreach (var item in Model) {
@@ -53,17 +50,35 @@
             @Html.DisplayFor(modelItem => item.IsAdmin)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.IsActive)
+            <input type="checkbox" class="is-active-checkbox" data-user-id="@item.Id" @(item.IsActive ? "checked" : "") />
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.Password)
+            @Html.ActionLink("Edit", "EditUser", new { userId = item.Id }) |
+            @Html.ActionLink("View Contacts", "ViewContacts", new { userId = item.Id }, null)
         </td>
-        <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
-            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
-        </td>
+
     </tr>
 }
 
 </table>
+
+<script>
+        $(document).ready(function () {
+            $('.is-active-checkbox').change(function () {
+                var isActive = $(this).is(':checked');
+                var userId = $(this).data('user-id');
+
+                $.ajax({
+                    url: '@Url.Action("UpdateIsActiveStatus")',
+                    type: 'POST',
+                    data: { userId: userId, isActive: isActive },
+                    success: function (response) {
+                        alert('Status updated successfully');
+                    },
+                    error: function (xhr, status, error) {
+                        alert('An error occurred: ' + error);
+                    }
+                });
+            });
+        });
+</script>

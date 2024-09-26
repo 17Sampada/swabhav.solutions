@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\AproSCM\u002724\\MVC\\ContactAppMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{557DA9FD-982B-45DA-A005-F6C5C5C8E616}|ContactAppMVC\\ContactAppMVC.csproj|d:\\aproscm\u002724\\mvc\\contactappmvc\\contactappmvc\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{557DA9FD-982B-45DA-A005-F6C5C5C8E616}|ContactAppMVC\\ContactAppMVC.csproj|solutionrelative:contactappmvc\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{557DA9FD-982B-45DA-A005-F6C5C5C8E616}|ContactAppMVC\\ContactAppMVC.csproj|d:\\aproscm\u002724\\mvc\\contactappmvc\\contactappmvc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{557DA9FD-982B-45DA-A005-F6C5C5C8E616}|ContactAppMVC\\ContactAppMVC.csproj|solutionrelative:contactappmvc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{557DA9FD-982B-45DA-A005-F6C5C5C8E616}|ContactAppMVC\\ContactAppMVC.csproj|d:\\aproscm\u002724\\mvc\\contactappmvc\\contactappmvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557DA9FD-982B-45DA-A005-F6C5C5C8E616}|ContactAppMVC\\ContactAppMVC.csproj|solutionrelative:contactappmvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\AproSCM\u002724\\MVC\\ContactAppMVC\\ContactAppMVC\\Views\\Contact\\Index.cshtml",
-              "RelativeDocumentMoniker": "ContactAppMVC\\Views\\Contact\\Index.cshtml",
-              "ToolTip": "D:\\AproSCM\u002724\\MVC\\ContactAppMVC\\ContactAppMVC\\Views\\Contact\\Index.cshtml",
-              "RelativeToolTip": "ContactAppMVC\\Views\\Contact\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T18:13:43.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "D:\\AproSCM\u002724\\MVC\\ContactAppMVC\\ContactAppMVC\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "ContactAppMVC\\Controllers\\ContactController.cs",
-              "ToolTip": "D:\\AproSCM\u002724\\MVC\\ContactAppMVC\\ContactAppMVC\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "ContactAppMVC\\Controllers\\ContactController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\AproSCM\u002724\\MVC\\ContactAppMVC\\ContactAppMVC\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "ContactAppMVC\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\AproSCM\u002724\\MVC\\ContactAppMVC\\ContactAppMVC\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "ContactAppMVC\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T18:12:53.49Z",
+              "WhenOpened": "2024-09-24T02:26:15.911Z",
               "EditorCaption": ""
             }
           ]
